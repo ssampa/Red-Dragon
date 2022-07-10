@@ -19,31 +19,65 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `My name is RED DRAGON🔥
-My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `My name is CYBER PODDA🔥
+My Creator is sachi sampath😎` //Costomize Alive Message (type your message in `🔵🄷🄸 𝗕𝗢𝗧 𝗜𝗦 𝗢𝗡𝗟𝗜𝗡𝗘⚉𝘁↰❧
 
-global.owner = ['+380944814219'] //Owner number in aive msg
-global.premium = ['+380944814219'] //Owner Number info
-global.ownernomer = '+380944814219' //Owner Number <<<
+🟡Qᵘᵉᵉⁿ ᴬᵐᵈⁱ P̶U̶B̶L̶I̶C̶ E̶D̶I̶T̶I̶O̶N̶
 
-global.ownername = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖' //Owner Name
-global.botname = ' ☬RED༒DRAGON࿐' //Bot Name
+🔴𝗖𝗥𝗘𝗔𝗧𝗘𝗗 𝗕𝗬🎗𝗖𝗬𝗕𝗘𝗥 𝗣𝗢𝗗𝗗𝗔
+
+⚪𝘍𝘈𝘚𝘛  ＳＰＥＥＤ🎗
+
+╭━━━━━━━╮
+┃       ● ══    ┃
+┃███████┃
+┃███████┃
+┃█𝙨𝙪𝙗𝙨𝙘𝙧𝙞𝙗𝙚█┃
+┃█   𝙉𝙤𝙬👇🏻👇🏻┃
+┃█ѕℓ  ¢увєя  █┃
+┃█  нα¢кєя██┃
+┃███████┃
+┃███████┃
+┃   ⦀       ○       ↰┃
+╰━━━━━━━╯
+𝙸 𝚊𝚖 𝚘𝚗𝚕𝚒𝚗𝚎 𝚐𝚎𝚝 𝚠𝚑𝚊𝚝 𝚢𝚘𝚞 𝚗𝚎𝚎𝚍 𝚢𝚘𝚞 𝚌𝚊𝚗 𝚞𝚜𝚎 𝚝𝚑𝚎🤙🏻 .cyberpodda 𝙲𝙾𝙼𝙼𝙰𝙽𝙳 𝚃𝙾 𝙶𝙴𝚃 𝙷𝙴𝙻𝙿⚉
+
+🔵𝘀𝘂𝗯𝘀𝗰𝗿𝗶𝗯𝗲 𝗺𝘆    𝗰𝗵𝗮𝗻𝗻𝗲𝗹🎃↡↡↡↡↡↡↡↡↡
+👇👇👇👇👇👇👇
+
+https://youtube.com/channel/UCO1gMv3lnxhwD1JzEgAFmuA
+
+
+👆👆👆👆👆👆👆🌐
+
+𝗹𝗶𝗸𝗲🌻©
+𝗰𝗼𝗺𝗺𝗲𝗻𝘁🌼©
+𝘀𝗵𝗮𝗿𝗲☘️🌹
+
+©️©️©️©️©️©️©️` )
+
+global.owner = ['+94768733078'] //Owner number in aive msg
+global.premium = ['+94768733078'] //Owner Number info
+global.ownernomer = '+94768733078' //Owner Number <<<
+
+global.ownername = '᳆⃞🇱🇰ᴄʏʙᴇʀ↯❰❰පොඩ්ඩාꪶහ්᭄❱❱☆✰★' //Owner Name
+global.botname = ' ×⃬͜⃞×ᴄʏʙᴇʀ↯❰ᴘᴏᴅᴅᴀꪶᴹᴼᴰˢ᭄❱™♔' //Bot Name
 
 global.button = '🤭Youtube📍' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://youtu.be/E5C-lrl_g9I' //Change Your Button's URL
+global.btnurl = 'https://youtube.com/channel/UCO1gMv3lnxhwD1JzEgAFmuA' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
-global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
-global.author = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯' //Author Name
+global.packname = '𝙲𝚈𝙱𝙴𝚁 𝙿𝙾𝙳𝙳𝙰' //Bot Pacage Name
+global.author = '×⃬͜⃞×ᴄʏʙᴇʀ↯❰ᴘᴏᴅᴅᴀꪶᴹᴼᴰˢ᭄❱™♔' //Author Name
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '©_Kumuthu.' //In list menu
-global.chatbotpre = 'true'  // Chat bot true/false
+global.chatbotpre = 'false'  // Chat bot true/false
 
-global.ig = 'https://github.com/prabhasha2006' //Github Account!
+global.ig = 'https://youtube.com/channel/UCO1gMv3lnxhwD1JzEgAFmuA!
 
 global.mess = { // COSTOMIZE WITH YOUR LANGUAGE
 	
